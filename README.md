@@ -29,7 +29,7 @@ The JavaScript code handles the following:
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in a web browser.
 3. Watch the simulation of the hacking process unfold in the container
-4. Or accesss the link `https://tanmayhh3009.github.io/HackerSimulator/`.
+4. Or accesss the link https://tanmayhh3009.github.io/HackerSimulator/.
 
 ## Notes
 
